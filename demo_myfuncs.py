@@ -52,7 +52,7 @@ if __name__ == '__main__':
     print(f"--- factorial test ---")
     print(f"input: {test_f}")
     print(f"result: {fact_res}")
-    print(f"expected: 120") #5! is 120
+    print(f"expected: 120") #5! is 120, 6! = 720
 
 # test exp
     test_x = 2.0
@@ -71,4 +71,4 @@ if __name__ == '__main__':
     print(f"--- nat log test ---")
     print(f"input: {test_ln_x}")
     print(f"result: {ln_res}")
-    print(f"expected (approx): 2.0") # it is approx 2
+    print(f"expected (approx): 2.0") # it is approx 2 since inverse of the one above
