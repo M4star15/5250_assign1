@@ -53,7 +53,7 @@ if __name__ == '__main__':
     print(f"input: {test_f}")
     print(f"result: {fact_res}")
     print(f"expected: 120") #5! is 120, 6! = 720
-
+    print("-" * 20)
 # test exp
     test_x = 2.0
     exp_res = exponential(test_x, 15)
