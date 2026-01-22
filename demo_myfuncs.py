@@ -60,7 +60,7 @@ if __name__ == '__main__':
     print(f"--- exp test ---")
     print(f"input: {test_x}")
     print(f"result: {exp_res}")
-    print(f"expected (approx): 7.389056") # approx answer
+    print(f"expected (approx): 7.389056") # approx answer using calculator
     
     print("-" * 20)
 
