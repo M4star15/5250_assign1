@@ -7,10 +7,20 @@
 
 
 // recursive factorial
-// long long breaks for bigger numbers so double
-double factorial(int n) {
-    if (n <= 1) return 1.0;
-    return n * factorial(n - 1);
+// long long or int breaks for bigger numbers so double
+// recursive factorial function
+double factorial(int n)
+{
+    if (n <= 1)
+    {
+        // base case
+        return 1.0;
+    }
+    else
+    {
+        // return n*(n-1)!
+        return n * factorial(n - 1);
+    }
 }
 
 
