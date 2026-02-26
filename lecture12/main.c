@@ -59,14 +59,14 @@ void deleteStack(node** top)
     }
 }
 
-//
-// bisection function below
 
+//simple function same as in the class
 double f(double x)
 {
     return x*x*x - x - 2.0;
 }
 
+// bisection function
 double bisection(double a, double b, double tol, int maxIter, node** stack)
 {
     double mid;
