@@ -1,0 +1,9 @@
+mode                = potential
+threads             = 8
+num_points          = 401
+tol                 = 1.000000000000000e-08
+omp_get_num_procs   = 2
+omp_get_max_threads = 8
+elapsed_time        = 0.34063934
+values_file         = potential_t8_values.data
+intervals_file      = potential_t8_intervals.data

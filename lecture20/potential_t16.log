@@ -1,0 +1,9 @@
+mode                = potential
+threads             = 16
+num_points          = 401
+tol                 = 1.000000000000000e-08
+omp_get_num_procs   = 2
+omp_get_max_threads = 16
+elapsed_time        = 0.31376623
+values_file         = potential_t16_values.data
+intervals_file      = potential_t16_intervals.data

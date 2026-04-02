@@ -1,0 +1,9 @@
+mode                = bessel
+threads             = 16
+num_points          = 501
+tol                 = 1.000000000000000e-08
+omp_get_num_procs   = 2
+omp_get_max_threads = 16
+elapsed_time        = 0.06574500
+values_file         = bessel_t16_values.data
+intervals_file      = bessel_t16_intervals.data
