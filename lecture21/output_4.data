@@ -1,0 +1,9 @@
+Rank 0 sent token 1000 to Rank 1
+Rank 1 received token 1000 from Rank 0
+Rank 1 sent token 1001 to Rank 2
+Rank 2 received token 1001 from Rank 1
+Rank 2 sent token 1002 to Rank 3
+Rank 3 received token 1002 from Rank 2
+Rank 3 sent token 1003 to Rank 0
+Rank 0 received token 1003 from Rank 3
+Final token at Rank 0 = 1003
