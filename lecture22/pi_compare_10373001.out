@@ -1,0 +1,15 @@
+Compiling codes...
+===== OpenMP =====
+OpenMP Monte Carlo method for pi
+Threads     = 2
+Total tosses= 10000000
+Inside count= 7852224
+pi estimate =   3.1408895999999999e+00
+Runtime     =   1.1156009975820780e-01 seconds
+===== MPI =====
+MPI Monte Carlo method for pi
+Processes   = 2
+Total tosses= 10000000
+Inside count= 7852224
+pi estimate =   3.1408895999999999e+00
+Runtime     =   1.1203488300000020e-01 seconds
